@@ -2,7 +2,7 @@
 
 ### [Introduction](#introduction-1)
 ### [Assumptions](#assumptions-1)
-### [Automated_Daily_Fund_Pricing_processflow diagram](#Automated_Daily_Fund_Pricing_processflow_diagram-diagram-1)
+### [Automated_Daily_Fund_Pricing_processflow diagram](#automated_daily_fund_pricing_processflow_diagram)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
 ### [Forward](#forward-1)
 
